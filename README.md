@@ -1,2 +1,2 @@
-# algorithms-datastructures
-Algorithms and Data Structures in JavaScript
+# Algorithms and Data Structures in JavaScript
+
