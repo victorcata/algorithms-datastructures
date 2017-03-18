@@ -37,7 +37,7 @@ Time complexity: [O(n) * O(n)] * [O(1) + O(1)] === O(n^2)
 ```
 
 - Exponential
-Notation: **O(K^n)**
+Notation: **O(k^n)**
 
 ```
 for (var i...) {
