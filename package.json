@@ -1,0 +1,28 @@
+{
+  "name": "algorithms-datastructures",
+  "version": "1.0.0",
+  "description": "Algorithms and Data Structures in JavaScript",
+  "main": "README.md",
+  "dependencies": {
+    "jshint": "^2.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorcata/algorithms-datastructures.git"
+  },
+  "keywords": [
+    "algorithms",
+    "datastructures",
+    "javascript"
+  ],
+  "author": "Victor Catalina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorcata/algorithms-datastructures/issues"
+  },
+  "homepage": "https://github.com/victorcata/algorithms-datastructures#readme"
+}
